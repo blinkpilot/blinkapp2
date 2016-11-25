@@ -1,5 +1,5 @@
 {
-    "name": "webpack-heroku-boilerplate",
+    "name": "blinkapp2",
     "version": "1.0.0",
     "description": "Simplest Heroku starter kit for React apps.",
     "main": "server.js",
