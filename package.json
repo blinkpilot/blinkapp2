@@ -2,7 +2,7 @@
   "name": "blinkapp2",
   "version": "1.0.0",
   "description": "Simplest Heroku starter kit for React apps.",
-  "main": "server.js",
+  "main": "./src/entry.js",
   "homepage": "https://github.com/blinkpilot/blinkapp2",
   "author": "Olga Sizova",
   "license": "MIT",
